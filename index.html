@@ -8,8 +8,10 @@
   </head>
 
   <body>
-    <header>Beer App</header>
-    <div class="container">
+    <header class="header">
+      <div class="header-logo">
+      <h1>Beer App</h1>
+      </div>
       <div class="filters">
         <div class="card filter-card">
           <div class="filter-container">
@@ -306,12 +308,18 @@
             </div>
           </div>
         </div>
-        <div class="card filter-card">
-          <div class="filter-container">
-            <div class="filter-text">
+      </div>
+    </header>
+      
+    <div class="container">
+      <div class="beers"></div>
+    </div>
+     <div class="pagination-card">
+          <div class="pagination-button-container">
+            <div class="pagination-button-text">
               <p>Page: <span id="pageNumber"></span></p>
             </div>
-            <div class="filter">
+            <div class="pagination-button">
               <button id="prevPage" class="page-btn" disabled>
                 <i class="far fa-caret-square-left"></i>
               </button>
@@ -321,9 +329,6 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="beers"></div>
-    </div>
     <footer>
       <h1>Get in Touch</h1>
 

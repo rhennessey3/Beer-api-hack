@@ -116,3 +116,5 @@ nextPage.addEventListener('click', () => {
 
 // initial get
 getBeers();
+
+
