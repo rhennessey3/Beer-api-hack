@@ -82,7 +82,7 @@ async function getBeers() {
         beerHtml += `
         <div class='beer-wrapper card'>
             <div class='beer'>
-                <img class='beer__img' src="${beer.image_url ? beer.image_url : genericBottle}">
+                <img class='beer__img' src="${beer.image_url ? beer.image_url : genericBottle} alt="beer">
                 <h3>${beer.name}</h3>
                 <span class='beer__info'>
                     <span>ABV: ${beer.abv}%</span>
