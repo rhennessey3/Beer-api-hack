@@ -36,7 +36,7 @@ display: flex;
 flex-direction: column;
 width: 100%;
   position: fixed;
-  padding: 1rem 2rem;
+ 
   background: var(--blue);
   color: var(--off-white);
   font-size: 2rem;
@@ -107,7 +107,7 @@ width: 100%;
 /* sticks to top */
 .filters {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   /* position: fixed;
   top: -100;
   z-index: 999; */
