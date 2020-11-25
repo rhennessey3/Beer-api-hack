@@ -1,10 +1,10 @@
 #  Beer Hack API
-
-
 ![Beer Hack API](https://res.cloudinary.com/dtrbqr2hn/image/upload/v1606161961/beer-app_eok62w.png)
 ## About
------------------------------------------
-This application uses a beer API to pull different flavor profiles of beer. Personalized beer results for the end user, helps them to make choices more easily.           
+This application uses a beer API to pull different flavor profiles of beer. Personalized beer results for the end user, helps them to make choices more easily.
+
+[see it live here](https://rhennessey3.github.io/Beer-api-hack/)<br>
+[see the repo here](https://github.com/rhennessey3/Beer-api-hack)
 
 ### Goal                                          
 
