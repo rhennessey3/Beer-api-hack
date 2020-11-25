@@ -18,11 +18,11 @@ This app pulls in beer product data and its associated flavor profile characteri
 
 Personalized beer results for the end user, helps them to make choices more easily.           
 
-Item     | Value
--------- | -----
-Computer | $1600
-Phone    | $12
-Pipe     | $1
+Item     | 
+-------- | 
+Computer | 
+Phone    | 
+Pipe     | 
 
 
 
