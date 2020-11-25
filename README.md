@@ -18,11 +18,10 @@ This app pulls in beer product data and its associated flavor profile characteri
 
 Personalized beer results for the end user, helps them to make choices more easily.           
 
-Item     | 
--------- | 
-Computer | 
-Phone    | 
-Pipe     | 
+Goal                                          | 
+--------------------------------------------- | 
+Create a way for people to choose a beer based off of a flavor profile                       | 
+
 
 
 
