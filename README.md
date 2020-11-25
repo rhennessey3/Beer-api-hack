@@ -6,17 +6,17 @@
 ## About
 This application uses a beer API to pull different flavor profiles of beer.
 
-Goal | 
--------- | -----
-Create a way for people to choose a beer based off of a flavor profile | 
+### Goal | 
 
-Solution | 
--------- | -----
-This app pulls in beer product data and its associated flavor profile characteristics. The fetch call sends that information into the DOM for the end user to choose a beer based off of their individual flavor preference. | 
+Create a way for people to choose a beer based off of a flavor profile 
 
-Result | 
--------- | -----
-Personalized beer results for the end user, helps them to make choices more easily.           | 
+### Solution | 
+
+This app pulls in beer product data and its associated flavor profile characteristics. The fetch call sends that information into the DOM for the end user to choose a beer based off of their individual flavor preference. 
+
+### Result | 
+
+Personalized beer results for the end user, helps them to make choices more easily.           
 
 ## Tech Used
 - HTML
